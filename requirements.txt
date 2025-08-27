@@ -1,0 +1,6 @@
+jax
+optax
+scikit-learn
+pandas
+seaborn
+jupyter
